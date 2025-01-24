@@ -39,12 +39,13 @@ Official Handbook can be found [Here](https://wiki.bambulab.com/en/x1/manual/x1c
    - The printer dropdown menu should only givde you one option, the Bambu Lab X1 Carbon, 4.0mm nozzle
    - From the pritner dropdown menu, select the appropriate one. If there are filaments already loaded onto the pritner, the presets should come up automatically.
    - In the process dropdown you are able to choose the layer height. 0.20mm is standard, the smaller the layer height the longer the print will take.  
-   ![Presets list](https://github.com/Porti032/labwiki/blob/465fcdca0c962af0ec3bf68d1be9bfb38244e479/assets/images/Bambu%20Presets.png "Presets list")
+   [![Presets list]( /assets/images/BambuLab/bambu_Presets.png "Presets list" ){: style="width: 50%" }]( /assets/images/BambuLab/bambu_Presets.png "Presets list" )
 5. Click on the green "slice" button at the top right hand to generate a .3mf file.
 6. This will take you to the preview pane. In here you'll be able to see how the model will look when it's printed as well as the printing times for each parameter.
 7. When you're ready, click print on the top right hand corner. This will prompt up a window with a preview of the model plus a list of the printers available
 On the lab they are arranged from left to right: Bambu 001, Bambu 002, Bambu 003.
-   ![Send To Print](https://github.com/Porti032/labwiki/blob/8f52e7d0d0bb992545008aa95f653d6dcc580b3f/assets/images/Bambu_SendPrint.png "Send Print")
+
+ [![Send To Print]( /assets/images/BambuLab/bambu_Send_Print.png "Presets list" ){: style="width: 50%" }]( /assets/images/BambuLab/bambu_Send_Print.png "Send To Print" )
 
 
 ## Loading the filament with AMS
@@ -52,12 +53,12 @@ On the lab they are arranged from left to right: Bambu 001, Bambu 002, Bambu 003
 1. Open up the cover of the AMS and load the spool in slot 1. Grab the filament and push it gently into the grey tab in front of the spool. The AMS will
 detect it automatically and start the loading procedure, when this happens you can let go of the filament.  
 2. When using an official Bambulab filament spool, the information (type and color) will be filled in the touchscreen.  
-   ![Filament menu](https://github.com/Porti032/labwiki/blob/4179fa0f28b39951fdcde3818bd4fb55400cebf2/assets/images/Bambu%20Filament%20Menu.png "Filament menu")
+   [![Filament menu]( /assets\images\BambuLab\bambu_Filament_Menu.png "Filament menu"){: style="width: 50%" }](/assets\images\BambuLab\bambu_Filament_Menu.png)
 4. For other types of filaments you will have to manually fill the information on the touchscreen. 
 
 ## Unloading the filament with AMS
 1. On the touchscreen touch "unload" to begin the process.
-   ![Unload Filament](https://github.com/Porti032/labwiki/blob/ca5f576cfebaff735dac2c7f801b984b228ef5d5/assets/images/Bambu_UnloadFilament.png "Unload Filament")
+   [![Unload Filament]( /assets\images\BambuLab\bambu_Unload_Filament.png "Unload Filament"){: style="width: 50%" }](/assets\images\BambuLab\bambu_Unload_Filament.png)
 3. Open the cover of the AMS and gently pull out the filament by hand.  
 
 ## Features
