@@ -6,8 +6,12 @@ has_children: false
 permalink: /docs/technologies/KNKForce
 ---
 
-# HOW TO USE KNK FORCE
+# KNK Force Vinyl Cutter
   
+  ## Location
+
+Main Lab
+
  ## Setup:
 
  ### Materials:
