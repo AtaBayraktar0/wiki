@@ -5,8 +5,8 @@ theme: just-the-docs
 color_scheme: dark
 
 nav_order: 2
-baseurl: ""
-url: https://rdflabfiu.github.io/wiki
+baseurl: "/wiki"
+url: https://rdflabfiu.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
