@@ -30,7 +30,9 @@ permalink: /docs/technologies/MarkForged
 ### Quick Loading
 1. Use the touchscreen menu in the lower center of the printer, select the menu icon at the top left corner.
 
-[![Menu Selection](/assets/images/MarkForged/MarkForged_MenuSelected.jpg "Menu Selection"){: style="width: 50%"}](/assets/images/MarkForged/MarkForged_MenuSelected.jpg "Menu Selection")
+
+[![Menu Selection]({{ site.baseurl }}/assets/images/MarkForged/MarkForged_MenuSelected.jpg "Menu Selection"){: style="width: 50%"}]({{ site.baseurl }}/assets/images/MarkForged/MarkForged_MenuSelected.jpg "Menu Selection")
+
 
 3. On menu tile, select **Materials** option.  
 4. Select **Load Material** to begin loading.
