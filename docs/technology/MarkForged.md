@@ -29,7 +29,9 @@ permalink: /docs/technologies/MarkForged
 6. Close drybox, make sure the latches **click twice**  
 ### Quick Loading
 1. Use the touchscreen menu in the lower center of the printer, select the menu icon at the top left corner.
-   ![Menu-Selection](https://github.com/Porti032/labwiki/blob/5debf0edfd98f5029095670a5d69d8740908ad33/assets/images/MarkForged_MenuSelected.jpg)
+
+[![Menu Selection](/assets/images/MarkForged/MarkForged_MenuSelected.jpg "Menu Selection"){: style="width: 50%"}](/assets/images/MarkForged/MarkForged_MenuSelected.jpg "Menu Selection")
+
 3. On menu tile, select **Materials** option.  
 4. Select **Load Material** to begin loading.
 5. Select **Quick Load** and then choose the type of plastic you're working with. (If you are not loading a full spool, click on **Meter Loading** instead) 
@@ -41,11 +43,17 @@ permalink: /docs/technologies/MarkForged
 1. Open the touchscreen meny in the lower center of the printer, select the menu icon at top left corner.
 2. On menu tile, select **Materials** option.
 3. Select the **Unload Plastic** tile to begin unloading. Click **Next** when prompted
-4. Open the lid at the top to reveal the plastic feed tube. Push in the black push-to-connect fitting to release tube from back of extruder.  
-   ![Cutting-Filament](https://github.com/Porti032/labwiki/blob/5a8cef41021910958b3f5684e00c27a1226d7177/assets/images/MarkForged_CutFilament.png )  
+4. Open the lid at the top to reveal the plastic feed tube. Push in the black push-to-connect fitting to release tube from back of extruder. 
+
+[![Cutting Filament](/assets/images/MarkForged/MarkForged_CutFilament.png "Cutting Filament"){: style="width: 50%"}](/assets/images/MarkForged/MarkForged_CutFilament.png "Cutting Filament")
+ 
+
 5. Open the drybox where material is located, wind the plastic back onto spool and remove spindle with unused filament to dispose.  
 6. Unscrew and remove bowden tube (gold screw) from the front of extruder. Press **Next** to begin spelling out the filament.  
-   ![Unscrew-BowdenTube]( https://github.com/Porti032/labwiki/blob/eb608218de0648711e48b5ab7cfc7647cc5f8620/assets/images/MarkForged_UnscrewBowdenTube.png)
+
+[![Unscrew Bowden Tube](/assets/images/MarkForged/MarkForged_UnscrewBowdenTube.png "Unscrew Bowden Tube"){: style="width: 50%"}](/assets/images/MarkForged/MarkForged_UnscrewBowdenTube.png "Unscrew Bowden Tube")
+
+
 7. Press **Stop** on the touchscreen when all of the filament is out of the extruder  
 8. Reinstall the plastic tube from both sides of the extruder. Press **Next**  
 9. Press **Load Plastic** or **skip** depending on what you want to do.  
