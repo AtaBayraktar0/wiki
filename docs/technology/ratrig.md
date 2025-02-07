@@ -40,11 +40,19 @@ Connecting to Rat OS network on your computer.
 ## RatRig Website
 Once connected to the website you will find different tabs with information about the printer/print.  
 1. The first thing that will open is the main dashboard
-![Main Dashboard](https://github.com/Porti032/labwiki/blob/679a50ddd35b30bfd5dbee45729b72dc9996ca7f/assets/images/RatRig_Dashboard.png "main dashboard")
+
+[![Main Dashboard](/assets/images/RatRig/RatRig_Dashboard.png "Main Dashboard"){: style="width: 50%"}](/assets/images/RatRig/RatRig_Dashboard.png "Main Dashboard")
+
 Here you will see a menu on the left will all the tabs neccesary to interact with the printer. Additionally, there will be a menu displaying recent errors as pictured.
+
 2. There is also the option of seeing different statistics about the printer, this includes print time and filament usage.  
 3. To print a file first head to the G-code Files tab, this will open a list of previous print as well as the option to upload a file of your choice (.gcode)  
-![Gcode-Files](https://github.com/Porti032/labwiki/blob/679a50ddd35b30bfd5dbee45729b72dc9996ca7f/assets/images/RatRig_GcodeFiles.png "G-code files")
-4. Once the file has been uploaded, it will show up at the top of the list. From this point you can select the file and click it, a menu should pop up with different options.  
-![Gcode-Menu](https://github.com/Porti032/labwiki/blob/679a50ddd35b30bfd5dbee45729b72dc9996ca7f/assets/images/RatRif_FilesMenu.png "G-code Option Menu")
+
+[![G-code Files](/assets/images/RatRig/RatRig_GcodeFiles.png "G-code Files"){: style="width: 50%"}](/assets/images/RatRig/RatRig_GcodeFiles.png "G-code Files")
+
+4. Once the file has been uploaded, it will show up at the top of the list. From this point you can select the file and click it, a menu should pop up with different options. 
+
+[![G-code Option Menu](/assets/images/RatRig/RatRif_FilesMenu.png "G-code Option Menu"){: style="width: 50%"}](/assets/images/RatRig/RatRif_FilesMenu.png "G-code Option Menu")
+
+
 5. If you think the file is ready to go click on the "print start" option. However, there's also the option of visualizing it beforehand.
