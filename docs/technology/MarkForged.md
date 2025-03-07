@@ -12,9 +12,9 @@ permalink: /docs/technologies/MarkForged
 
 **Model:** Desktop Mark Two  
 **Materials available:** Onyx, PLA, TPU  
-**Process:** Fused/continous filament fabrication  
-**Specifications:** Datasheet is available [here](https://s3.amazonaws.com/mf.product.doc.images/Datasheets/F-PR-2027.pdf)  
-**Official Handbook:** [here](https://s3.amazonaws.com/mf.product.doc.images/PDF_Manuals/Desktop_Printer_UserGuide.pdf)  
+**Datasheet:** [View Here]({{ site.baseurl }}/assets/docs/MarkForged/markforged_Datasheet.pdf)
+**Official Handbook:** [View Here]({{ site.baseurl }}/assets/docs/MarkForged/markforged_Official_Handbook.pdf)  
+
 
 
 
@@ -27,7 +27,9 @@ permalink: /docs/technologies/MarkForged
 4. Place spool on drybox, making sure that the filament is exiting from the **top**
 5. Feed the plastic filament all the way through the transparent tube at one end of the drybox until it reaches one end of the extruder. Let it hang freely for now.    
 6. Close drybox, make sure the latches **click twice**  
+
 ### Quick Loading
+
 1. Use the touchscreen menu in the lower center of the printer, select the menu icon at the top left corner.
 
 

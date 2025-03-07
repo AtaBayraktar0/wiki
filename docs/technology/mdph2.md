@@ -22,9 +22,9 @@ permalink: /docs/technologies/mdph2
 ## System
 
 - **Extruder Diagram:** [View here]({{ site.baseurl s}}/assets/images/MDPH2/mdph2_Extruder_Diagram.png)
-- **Extruder Control Code:** [Download]({{ site.baseurl }}/assets/images/MDPH2/mdph2_Extruder_Firmware.ino) 
-- **Technical Overview:** [View Here]({{ site.baseurl }}/assets/images/MDPH2/mdph2_Overview_Drawing.pdf)
-- **Official Handbook:** [View Here]({{ site.baseurl }}/assets/images/MDPH2/mdph2_Official_Handbook.pdf)
+- **Extruder Control Code:** [Download]({{ site.baseurl }}/assets/docs/MDPH2/mdph2_Extruder_Firmware.ino) 
+- **Technical Overview:** [View Here]({{ site.baseurl }}/assets/docs/MDPH2/mdph2_Overview_Drawing.pdf)
+- **Official Handbook:** [View Here]({{ site.baseurl }}/assets/docs/MDPH2/mdph2_Official_Handbook.pdf)
 
 ## Operation
 
@@ -59,4 +59,4 @@ permalink: /docs/technologies/mdph2
 ## Useful Links & References
 
 - [CAD Model]({{ site.baseurl }}/assets/images/MDPH2/mdph2_CAD_Model.zip)
-- [Power Supply Manual]({{ site.baseurl }}/assets/images/MDPH2/mdph2_Power_Supply_Manual.pdf)
+- [Power Supply Manual]({{ site.baseurl }}/assets/docs/MDPH2/mdph2_Power_Supply_Manual.pdf)
